@@ -1,4 +1,4 @@
-# Nekustamā Īpašuma Platforma — Laravel REST API
+# Nekustamā Īpašuma Platforma
 
 Tīmekļa lietojumprogramma uz Laravel, kas paredzēta nekustamā īpašuma sludinājumu publicēšanai un apskatei. Aizmugursistēma (backend) ir izveidota kā REST API ar lietotāju lomu atbalstu, izlases sarakstu un sludinājumu pārvaldību.
 
